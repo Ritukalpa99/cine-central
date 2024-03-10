@@ -1,7 +1,10 @@
-import React from 'react'
+import React from "react";
 
 export const MovieList = () => {
-  return (
-    <main>MovieList</main>
-  )
-}
+	return (
+		<main>
+			<div className="text-2xl text-center bg-emerald-200">MovieList</div>
+      
+		</main>
+	);
+};
