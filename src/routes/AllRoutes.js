@@ -3,7 +3,7 @@ import { MovieList, MovieDetail, Search, PageNotFound } from "../pages";
 
 export const AllRoutes = () => {
 	return (
-		<>
+		<div className="dark:bg-slate-800">
 			<Routes>
 				<Route
 					path=""
@@ -34,6 +34,6 @@ export const AllRoutes = () => {
 					element={<PageNotFound />}
 				/>
 			</Routes>
-		</>
+		</div>
 	);
 };
