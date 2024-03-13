@@ -27,7 +27,7 @@ export const AllRoutes = () => {
 				/>
 				<Route
 					path="search"
-					element={<Search />}
+					element={<Search apiPath="search/movie"/>}
 				/>
 				<Route
 					path="*"
