@@ -18,8 +18,9 @@ export const Footer = () => {
 				<ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
 					<li>
 						<a
-							href="/"
+							href="https://www.instagram.com"
 							target="_blank"
+							rel="noreferrer"
 							className="hover:underline me-4 md:me-6"
 						>
 							Instagram
@@ -27,8 +28,9 @@ export const Footer = () => {
 					</li>
 					<li>
 						<a
-							href="/"
+							href="https://www.twitter.com"
 							target="_blank"
+							rel="noreferrer"
 							className="hover:underline me-4 md:me-6"
 						>
 							Twitter
@@ -36,8 +38,9 @@ export const Footer = () => {
 					</li>
 					<li>
 						<a
-							href="/"
+							href="https://www.facebook.com"
 							target="_blank"
+							rel="noreferrer"
 							className="hover:underline me-4 md:me-6"
 						>
 							Facebook
@@ -45,8 +48,9 @@ export const Footer = () => {
 					</li>
 					<li>
 						<a
-							href="#"
+							href="https://www.youtube.com"
 							target="_blank"
+							rel="noreferrer"
 							className="hover:underline"
 						>
 							Youtube
